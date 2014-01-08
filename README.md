@@ -166,6 +166,7 @@ _I'm unable to save anything to svg format in my tests... not even a file that's
   - FAQ
 - figure out why I can't save anything to svg format
 - finalize Visio to PDF support and provide tests
+- make indents and bracketing consistent... sorry if you prefer spaces, but I prefer tabs
 
 ## Getting Started
 [Google Code Getting Started Page](http://code.google.com/p/jodconverter/wiki/GettingStarted)
